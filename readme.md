@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/msdhundhiya/Course-selling-backend?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/msdhundhiya/Course-selling-backend?style=for-the-badge)
-![License](https://img.shields.io/github/license/msdhundhiya/Course-selling-backend?style=for-the-badge)
+
 
 A robust backend server for a course-selling web application. This project provides a complete set of APIs to manage administrators, users, and courses, including authentication, course management, and purchasing logic.
 
@@ -113,10 +113,6 @@ The API is structured into two main roles: **Admin** and **User**.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/msdhundhiya/Course-selling-backend/issues).
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ---
 Made with ❤️ by [msdhundhiya](https://github.com/msdhundhiya)
