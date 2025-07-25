@@ -93,7 +93,7 @@ The API is structured into two main roles: **Admin** and **User**.
 | Method | Endpoint             | Description                                |
 | :----- | :------------------- | :----------------------------------------- |
 | `POST` | `/admin/courses`     | Creates a new course.                      |
-| `PUT`  | `/admin/courses/:id` | Updates an existing course by its ID.      |
+| `PUT`  | `/admin/courses/` | Updates an existing course by its ID.      |
 | `GET`  | `/admin/courses`     | Retrieves all courses created by the admin.|
 
 ---
